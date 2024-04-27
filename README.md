@@ -28,7 +28,7 @@
 
 
   <p>
-    ⭐ Join our channel <a href="https://t.me/telegreport">BY CLICKING HERE</a> to get news about updates and important notifications related to our tool. <br>
+    ⭐ Join our channel <a href="https://t.me/aboutkrishbhai">BY CLICKING HERE</a> to get news about updates and important notifications related to our tool. <br>
   </p>
 
   <h1>DISCLAIMER</h1>
